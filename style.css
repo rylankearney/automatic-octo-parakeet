@@ -1,3 +1,11 @@
 body {
-    background: salmon;
+    background: lightcyan;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+p {
+    color:darkblue;
 }
